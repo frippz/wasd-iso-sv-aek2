@@ -1,6 +1,6 @@
 # Apple Keyboard Layout for WASD V2/V3 (Swedish ISO)
 
-A template file that can be used in [WASD Keyboards](https://www.wasdkeyboards.com) configuation tool. This keyboard is inspired by the classic [Apple Extended Keyboard II](https://en.wikipedia.org/wiki/Apple_Extended_Keyboard).
+A template file that can be used in [WASD Keyboards](https://www.wasdkeyboards.com) configuation tool. This keyboard is inspired by the classic [Apple Extended Keyboard II](https://en.wikipedia.org/wiki/Apple_Extended_Keyboard). Template is compatible with both the 105- and 88-key options.
 
 ![](https://raw.github.com/frippz/wasd-iso-sv-aek2/master/WASD-ISO-SV-AEKII.png)
 
