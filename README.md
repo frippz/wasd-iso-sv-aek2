@@ -21,3 +21,7 @@ I RARELY NEED TO SHOUT ON THE INTERNET. Also, since I'm a Vim user, I found an e
 ### Why are some of the keys not corresponding to the actual function in the OS?
 
 Silly macOS thinks you’ve plugged in some unholy semi-Mac-compatible PC keyboard. I’m not actually sure, to be honest. I use [Karabiner Elements](https://pqrs.org/osx/karabiner/) to remap my keys as needed. Particularly the `§` and `<` keys, that become reversed for some reason.
+
+### Did you make this yourself?
+
+Nah, I just found [someone else’s UK layout](http://hccdata.s3.amazonaws.com/WASD-ISO-UK-AEKII.svg) on the interwebs and modified it to make it more 🇸🇪❤️.
