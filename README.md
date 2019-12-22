@@ -1,4 +1,4 @@
-# Apple Keyboard Layout for WASD V2 Keyboards (Swedish ISO)
+# Apple Keyboard Layout for WASD V2 (Swedish ISO)
 
 More info coming!
 
