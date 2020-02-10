@@ -8,7 +8,7 @@ A template file that can be used in [WASD Keyboards](https://www.wasdkeyboards.c
 
 ### I’m Norwegian/Danish/whatever and need to modify it a little
 
-Not really a question, but… of course you can! The template is SVG and can be edited in a number of applications. Sketch, Affinity Design, Adobde Illustrator, Inkscape.
+Not really a question, but… of course you can! The template is SVG and can be edited in a number of applications. Sketch, Affinity Design, Adobde Illustrator, Inkscape. Fork away!
 
 ### What typeface is that?
 
