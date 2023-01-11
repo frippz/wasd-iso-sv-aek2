@@ -4,8 +4,8 @@ A template file that can be used in [WASD Keyboards](https://www.wasdkeyboards.c
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.github.com/frippz/wasd-iso-sv-aek2/master/WASD-ISO-SV-AEKII-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.github.com/frippz/wasd-iso-sv-aek2/master/WASD-ISO-SV-AEKII.png">
-  <img alt="" src="https://raw.github.com/frippz/wasd-iso-sv-aek2/master/WASD-ISO-SV-AEKII.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.github.com/frippz/wasd-iso-sv-aek2/master/WASD-ISO-SV-AEKII-light.png">
+  <img alt="" src="https://raw.github.com/frippz/wasd-iso-sv-aek2/master/WASD-ISO-SV-AEKII-light.png">
 </picture>
 
 ## FAQ
